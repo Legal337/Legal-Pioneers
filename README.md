@@ -1,7 +1,7 @@
-# PROJECT TITLE: Legal-Pioneers
+  PROJECT TITLE: Legal-Pioneers
 
-# TEAM MEMBERS NAME
-# SER No.   # NAME                          # ID No.
+  TEAM MEMBERS NAME
+  SER No.     NAME                         ID No.
   1.         Ibrahim Conteh                  8183
   2.         Kadijah Kamara                  8173
   3.         Osman Sesay                     8158
